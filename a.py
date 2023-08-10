@@ -1,4 +1,4 @@
-str="siddaganga_polytechnic"
+str="siddaganga_polytechnicSPTSPT"
 st="abc"
 op = ""
 for i in range(0,len(str),3):
