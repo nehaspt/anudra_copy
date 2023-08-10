@@ -1,4 +1,4 @@
-#python program
+#python programiji
 str="siddaganga_polytechnic"
 st="abc"
 op = ""
