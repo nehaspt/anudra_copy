@@ -1,3 +1,7 @@
+
+#python programijigdfnfu
+str="siddaganga_polytechnic"
+=======
 str="siddaganga_polytechnicSPTSPT"
 st="abc"
 op = ""
